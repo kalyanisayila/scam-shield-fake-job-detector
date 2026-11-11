@@ -1,5 +1,7 @@
 # ScamShield: Fake Job Detector
 
+![demo](screenshots/demo.png)
+
 Paste a job message or offer letter and ScamShield tells you if it looks like a scam.
 
 ## How it works
